@@ -29,9 +29,9 @@ sales analysis.
 
 ## 🖥️ Dashboard Preview
 
-![Retail Sales Dashboard](Screenshots/Retail-Sales-Dashboard.png)
 
-[Best-worst sellers]!https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/OverView%20(1).png
+
+![Retail Sales Dashboard](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/OverView%20(1).png)
 
 ---
 
