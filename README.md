@@ -29,7 +29,8 @@ sales analysis.
 
 ## 🖥️ Dashboard Preview
 
-"D:\Job M.Talat\Gelatist-Sales-2026\OverView (1).png"
+![Retail Sales Dashboard](Screenshots/Retail-Sales-Dashboard.png)
+
 
 
 ---
