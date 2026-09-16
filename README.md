@@ -37,7 +37,11 @@ sales analysis.
 
 ![Retail Sales Dashboard](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/Sales%20Details.png)
 Dashboard Demo
+## 🎥 Dashboard Demo
 
+[![Watch Retail Sales Dashboard Demo](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/Sales%20Details.png)](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/PBIDesktop_PqwOr2Jc4Z.mp4)
+
+**▶ Click the dashboard preview to watch the full demo**
 ## 📌 Key KPIs
 
 - 💰 Sales Today
