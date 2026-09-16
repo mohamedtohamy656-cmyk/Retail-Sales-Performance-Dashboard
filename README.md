@@ -33,7 +33,10 @@ sales analysis.
 
 ![Retail Sales Dashboard](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/OverView%20(1).png)
 ![Retail Sales Dashboard](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/Branch%20Comparison%20Analysis.png)
+![Retail Sales Dashboard](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/Monthly%20Performance.png)
 
+![Retail Sales Dashboard](https://github.com/mohamedtohamy656-cmyk/Retail-Sales-Performance-Dashboard/blob/main/Sales%20Details.png)
+Dashboard Demo
 
 ## 📌 Key KPIs
 
